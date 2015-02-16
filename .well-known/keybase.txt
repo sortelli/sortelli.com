@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/sortelli
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sortelli.com
+  * I am sortelli (https://keybase.io/sortelli) on keybase.
+  * I have a public key with fingerprint 2878 AE19 2D60 A524 C46B  F25C 4702
+  * 5C3B D299 E032
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2878ae192d60a524c46bf25c47025c3bd299e032",
+            "host": "keybase.io",
+            "key_id": "47025c3bd299e032",
+            "uid": "2589c5f9cd6c9f9702039009f9bc7400",
+            "username": "sortelli"
+        },
+        "revoke": {
+            "sig_ids": [
+                "ad2014e5c3742ab465ade57f28d108d4fe17d3938535faff38b32c82fbbd07330f"
+            ]
+        },
+        "service": {
+            "hostname": "sortelli.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415868695,
+    "expire_in": 157680000,
+    "prev":
+"8adce8302ef81148533bf947c98b1db555a8aa0673bd7db860aa8b2234f8b1e7",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtUntQVGUUX17rRAhMIgQWM3sdo1HQu/ex97uLaGAzGoqDU4DFEt7Hd5cb7N5l
+nwjxFHn5mHbEktRgpDGYYkw0x81goomkoVYka3goBWRmOfTCUEHqu0z90/T98T3O
++Z3f75zzndeWB2kCA7YGmpKHW74jAgZv8wFJL4jFShnGK+JezFiGFcKlQ5KtZmi3
+2WWrEzNiBGAAB/UsIRpwjiYogTLwEkELFIOjneRFgmUhThJYIlagONQIRMNzDrhe
+VpANPfJlEVn/B+9achA0YAVaYgXRILASi2A4yeI4uvICQ+G4CnRAu5WzQIR2KHYn
+LCqSsfJEzA7dSiFUU3bIZqTiwIy5GCcSuJ6CSIqhCI6nDDQnQpqRCCDqcSBSEtQz
+IsmSgCZpiZMkEvAkIQBC4nkRZ0gSl7A8xI0U3bKwRK6W9R/19YJiQXnZ7IpTEZQi
+5ClwOm1GNSnnXpuK9EA+/x+OfF62iqinKMAN7Q5ZsWJGPUIKTlkl1VN6GhiAgaUT
+MVhik+0wX1YRNGMAOFqqDHQjSsCJAgQkTkAJ6PUUKoDkJZZiBBbwepGnaZoDHIcb
+GNRkRuQB+i8O8ARBUhICQAZTqyq2KpgRoDQ5c4RakGy2ck6XHWLloY2BTwRrAgI1
+2pBAdS40oY9E/jst0cMRD+N9P++am/ByWEqWf/NCrbb+yKG5aD4ojQ7bVOONM3I7
+/pzuWB1dmjN0pu64cO1Y8GxlSE54863a+trJNcNP69oyCh/3FLjuLRyfzIv/we8u
+05Ql7/t2sjumKfZC5/DIqRDroH+iOapgWz0g7q/RtXR2hb/1TcaKDVNVG4pc7SDC
+3CDolo1MHxq4dLpmPu7OTGv7wC8yePL+p03bT554pbG/hK55tD35SIcj3Zfnzqje
+yNy9/tUo7Wy2NiVF5VenmZWErsadtz33dnT7HjM86ApL6dpj8Sx8UhqndfxmjvQU
+X6xcWX52n5gbytinPX1vl1ZfPlo982K/P9KyWPLsc10HB7PnlG0lY6bD52NGs2Oi
+Prtxtarq7vmpU+e29LxPzSYkpW6y7L5csOg7bW4dD157U1qVtTPTG7G9ry07D6y+
++eFhi38Z7qj4IiZR0xR7oCHrxlNptZ4fTzwsS3vzVlJ27+uxnJBaqjUO7k4Pmd3s
+Ut6pmBufusDsX4V9JFcGjfx+7svel/pcvr9erRjt8X8tH72T4Jpfp51vWJtUcaDY
+/YYuJzw9+6z72pRpXeqesatDKeWlZ37dUp0wWZIbtAteedAff9J7ZaDug2d8uta6
+6xd/Mo1OtCwPy6zdb/p8vDkS635546XknjGwwroVvNvWu7Klxvde7ozO3Vm/+Pwf
+Qx3ezI+PJXz/Nw==
+=8s6S
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sortelli
+
+==================================================================

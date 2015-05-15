@@ -1,0 +1,15 @@
+name: Joe Sortelli
+description: hello, world
+meta_description: "Joe Sortelli: hello, world"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 2000
+baseurl: /
+domain_name: 'http://sortelli.com'
+google_analytics: 'UA-63005620-1'
+
+# Details for the RSS feed generator
+url:            'http://sortelli.com'
+author:         'Joe Sortelli'

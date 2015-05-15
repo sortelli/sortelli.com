@@ -10,6 +10,9 @@ baseurl: /
 domain_name: 'http://sortelli.com'
 google_analytics: 'UA-63005620-1'
 
+include: 
+  - .well-known
+
 # Details for the RSS feed generator
 url:            'http://sortelli.com'
 author:         'Joe Sortelli'
